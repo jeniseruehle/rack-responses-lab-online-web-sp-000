@@ -1,11 +1,7 @@
 class Application
   
   def call(env)
-    
-  end 
-  
-  def time 
-    
+    if Time.now 
   end 
   
 end 
