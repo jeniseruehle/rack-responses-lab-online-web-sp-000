@@ -4,4 +4,8 @@ class Application
     
   end 
   
+  def time 
+    
+  end 
+  
 end 
